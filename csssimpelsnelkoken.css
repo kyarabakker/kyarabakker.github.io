@@ -5,3 +5,35 @@ h1 {
 footer {
     background-color: rgb(188, 220, 255);
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #7e1212;
+    height: 52px;
+    width: 1835px;
+  }
+  
+  li {
+    float: left;
+    border-right:1px solid #ffffff
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    font-weight:bold;
+ }
+ 
