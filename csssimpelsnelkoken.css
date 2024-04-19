@@ -26,6 +26,7 @@ ul {
     text-align: center;
     padding: 14px;
     text-decoration: none;
+    font-size: 15pt;
   }
   li {
     float: left;
@@ -36,3 +37,7 @@ ul {
     font-weight:bold;
  }
  
+ h2 {
+  font-family: Arial;
+    font-size: 15pt;
+ }
