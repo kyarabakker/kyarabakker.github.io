@@ -66,3 +66,7 @@ ul {
   width: 100%;
  }
  
+ .flexrow {
+  display: flex;
+  justify-content: space-around;
+}
