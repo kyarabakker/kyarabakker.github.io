@@ -64,9 +64,14 @@ ul {
  }
  .box img {
   width: 100%;
+height: 75%;
  }
  
  .flexrow {
   display: flex;
   justify-content: space-around;
+}
+
+p {
+font-size: 15pt;
 }
