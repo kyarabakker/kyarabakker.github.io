@@ -63,9 +63,6 @@ ul {
   text-align: center;
  }
  .boximage {
-  width: 50%;
+  width: 20%;
  }
- .flexrow {
-  display: flex;
-  justify-content: space-around;
-}
+ 
