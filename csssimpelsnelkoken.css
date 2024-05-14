@@ -65,3 +65,7 @@ ul {
  .boximage {
   width: 50%;
  }
+ .flexrow {
+  display: flex;
+  justify-content: space-around;
+}
