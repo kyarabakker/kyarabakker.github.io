@@ -75,3 +75,29 @@ height: 75%;
 p {
 font-size: 15pt;
 }
+
+h3 {
+  background-color: rgb(188, 220, 255);
+  padding: 14px;
+  width: 30%;
+
+}
+h4 {
+  background-color: rgb(188, 220, 255);
+  padding: 10px;
+  width: 30%; 
+}
+
+img {
+  float: right;
+  width: 35%;
+  height: 50%;
+  margin-right: 10%;
+}
+
+h5 {
+  background-color: rgb(188, 220, 255);
+  padding: 10px;
+  width: 30%;
+  font-size: 50pt;
+}
