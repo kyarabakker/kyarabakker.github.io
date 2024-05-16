@@ -88,16 +88,21 @@ h4 {
   width: 30%; 
 }
 
-img {
-  float: right;
-  width: 35%;
-  height: 50%;
-  margin-right: 10%;
-}
+
 
 h5 {
   background-color: rgb(188, 220, 255);
-  padding: 10px;
-  width: 30%;
-  font-size: 50pt;
+  font-size: 30pt;
+}
+
+.div1 {
+  width: 200px;
+  height: 100px;
+  box-sizing: border-box;
+}
+
+.div2 {
+  width: 300px;
+  height: 200px;  
+  float: right;
 }
