@@ -79,14 +79,12 @@ font-size: 15pt;
 h3 {
   background-color: rgb(208, 162, 239);
   padding: 14px;
-  width: 30%;
   font-size: 20pt;
 
 }
 h4 {
   background-color: rgb(208, 162, 239);
   padding: 14px;
-  width: 30%; 
 }
 #rij {
   display: flex;
@@ -116,8 +114,10 @@ h5 {
 
 #bereiden{
  width: 60%;
+ margin: 1%;
  
 }
 #Ingrediënten{
   width: 40%;
+  margin: 1%;
 }
