@@ -148,9 +148,6 @@ h5 {
 #totaal {
   border: 1px solid black;
   width: 80%;
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
 }
 #totaal p {
   margin-left: 5%;
