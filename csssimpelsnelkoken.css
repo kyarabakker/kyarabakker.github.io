@@ -128,3 +128,31 @@ h5 {
   width: 40%;
   margin: 1%;
 }
+
+.winkel {
+  border: 1px solid black;
+  width: 80%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.winkel img {
+  width: 20%;
+}
+.winkel p {
+  margin-left: 5%;
+  font-size: 14pt;
+}
+
+#totaal {
+  border: 1px solid black;
+  width: 80%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+#totaal p {
+  margin-left: 5%;
+  font-size: 14pt;
+}
