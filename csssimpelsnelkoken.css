@@ -107,7 +107,7 @@ h5 {
   margin: 0%;
   text-align: center;
 }
-
+/* zorgt voor de webpagina van een reept voor de afbeeling */
 .div1 {
   width: 40%;
   box-sizing: border-box;
@@ -115,21 +115,22 @@ h5 {
 .div1 img {
   width: 100%;
 }
+/* zorgt voor de webpagina van een recept voor de tekst langs de afbeelding */
 .div2 {
   width: 60%; 
   text-align: center;
 }
-
+/* zorgt voor de opmaak van de stuk tekst van het gedeelte bereiden op een webpagina van een recept */
 #bereiden{
  width: 60%;
  margin: 1%;
- 
 }
+/* zorgt voor de opmaak van de stuk tekst van het gedeelte ingredienten op een webpagina van een recept */
 #Ingrediënten{
   width: 40%;
   margin: 1%;
 }
-
+/* zorgt voor alle opmaak van de boxen en tekst en afbeelding van alle recepten in het winkelmandje */
 .winkel {
   border: 1px solid black;
   width: 80%;
@@ -145,7 +146,7 @@ h5 {
   margin-left: 5%;
   font-size: 14pt;
 }
-
+/* zorgt voor de box en opmaak van de tekst van het totale bedrag in het winkelmandje */
 #totaal {
   border: 1px solid black;
   width: 80%;
