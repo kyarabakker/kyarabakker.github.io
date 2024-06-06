@@ -50,6 +50,12 @@ ul {
     width: 2%;
     height: 3%;
  }
+/* zorgt voor de opmaak van het logo */
+ #logo{
+  float: left;
+  width: 3.5%;
+  height: 3%;
+ }
 /* zorgt voor de opmaak van het gedeelte van info overons op de voorpagina */
  #info-overons {
   background-color: rgb(188, 220, 255);
