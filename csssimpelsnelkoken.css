@@ -56,6 +56,13 @@ ul {
   width: 3.5%;
   height: 3%;
  }
+
+ #banner {
+  margin-left: 8%;
+  margin-right: 8%;
+ width: 80%;
+ padding: 2%;
+ }
 /* zorgt voor de opmaak van het gedeelte van info overons op de voorpagina */
  #info-overons {
   background-color: rgb(188, 220, 255);
