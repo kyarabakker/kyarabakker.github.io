@@ -114,9 +114,7 @@ h4 {
 }
 
 h5 {
-  background-color: rgb(188, 220, 255);
   font-size: 40pt;
-  height: 100%;
   margin: 0%;
   text-align: center;
 }
@@ -132,6 +130,12 @@ h5 {
 .div2 {
   width: 60%; 
   text-align: center;
+  background-color: rgb(188, 220, 255);
+}
+/* afbeelding winkelmandje onder alle tekst op een webpagina van een recept */
+#shop img{
+  width: 5%;
+  height: 5%;
 }
 /* zorgt voor de opmaak van de stuk tekst van het gedeelte bereiden op een webpagina van een recept */
 #bereiden{
@@ -168,3 +172,4 @@ h5 {
   margin-left: 5%;
   font-size: 14pt;
 }
+
